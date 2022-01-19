@@ -14,9 +14,7 @@ Digite o seguinte comando no terminal:
 
 
 
-Para testar, podemos acessar a URL `localhost:3000/api/filmes` pelo Postman:
-
-![](C:\Users\joao.duarte\Pictures\diversas\GET no Postman - Filmes Favoritos.png)
+Para testar, podemos acessar a URL `localhost:3000/api/filmes` pelo Postman.
 
 Criada a API para listar filmes favoritos.
 
