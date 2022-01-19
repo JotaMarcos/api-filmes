@@ -16,7 +16,7 @@ Digite o seguinte comando no terminal:
 
 Para testar, podemos acessar a URL `localhost:3000/api/filmes` pelo Postman:
 
-![image-20220119102404296](C:\Users\joao.duarte\AppData\Roaming\Typora\typora-user-images\image-20220119102404296.png)
+![](C:\Users\joao.duarte\Pictures\diversas\GET no Postman - Filmes Favoritos.png)
 
 Criada a API para listar filmes favoritos.
 
